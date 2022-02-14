@@ -372,6 +372,10 @@ footer {
     .grid {
         grid-template-columns: 1fr;
     }
+    
+    h1 {
+    font-size: 4rem;
+}
     .gallery-img {
         width: 100%;
         max-width: 100%;
